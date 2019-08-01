@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\VentasBDD\Actions\bin\Debug\Actions.dll
+C:\Users\Administrator\source\repos\VentasBDD\Actions\bin\Debug\Actions.pdb
+C:\Users\Administrator\source\repos\VentasBDD\Actions\bin\Debug\Datos.dll
+C:\Users\Administrator\source\repos\VentasBDD\Actions\bin\Debug\Entities.dll
+C:\Users\Administrator\source\repos\VentasBDD\Actions\bin\Debug\Interfas.dll
+C:\Users\Administrator\source\repos\VentasBDD\Actions\bin\Debug\Datos.pdb
+C:\Users\Administrator\source\repos\VentasBDD\Actions\bin\Debug\Entities.pdb
+C:\Users\Administrator\source\repos\VentasBDD\Actions\bin\Debug\Interfas.pdb
+C:\Users\Administrator\source\repos\VentasBDD\Actions\obj\Debug\Actions.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\VentasBDD\Actions\obj\Debug\Actions.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\VentasBDD\Actions\obj\Debug\Actions.csproj.CopyComplete
+C:\Users\Administrator\source\repos\VentasBDD\Actions\obj\Debug\Actions.dll
+C:\Users\Administrator\source\repos\VentasBDD\Actions\obj\Debug\Actions.pdb

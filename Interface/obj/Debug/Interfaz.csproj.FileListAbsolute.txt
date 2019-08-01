@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\VentasBDD\Interfas\bin\Debug\Interfas.dll
+C:\Users\Administrator\source\repos\VentasBDD\Interfas\bin\Debug\Interfas.pdb
+C:\Users\Administrator\source\repos\VentasBDD\Interfas\obj\Debug\Interfaz.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\VentasBDD\Interfas\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\VentasBDD\Interfas\obj\Debug\Interfas.dll
+C:\Users\Administrator\source\repos\VentasBDD\Interfas\obj\Debug\Interfas.pdb
