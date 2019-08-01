@@ -1,2 +1,2 @@
-# solucion_herencia_ventas
+# ventas_BBDD
 C# Project using POO.
